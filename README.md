@@ -1,3 +1,4 @@
+
 # **Enron Project**  
 _Analyzing Enron's email dataset and stock prices to uncover insights through sentiment analysis, network analysis, and data visualization._
 
@@ -51,3 +52,73 @@ Ensure you have the following installed:
    ```bash
    git clone https://github.com/your_username/Enron-project.git
    cd Enron-project
+   ```
+2. Install dependencies:
+   ```bash
+   pip install -r requirements.txt
+   ```
+
+---
+
+## **Usage**
+### **Run the Analysis**
+1. Open the main Jupyter notebook:
+   ```bash
+   jupyter notebook ENRON_PROJECT.ipynb
+   ```
+2. Run the notebook cells to:
+   - Perform sentiment analysis.
+   - Analyze the network graph.
+   - Visualize the results.
+
+### **Scripts**
+- **`imports.py`**: Handles library imports and reusable functions.
+- **`mailClass.py`**: Contains the logic for email data parsing and processing.
+- **`graph_visualization.py`**: Generates network graph visualizations.
+
+---
+
+## **Scripts and Notebooks**
+- **`ENRON_PROJECT.ipynb`**: The primary notebook for executing the entire analysis pipeline.
+- **`graph_visualization.py`**: A script dedicated to generating interactive graph visualizations for the network.
+
+---
+
+## **Visualization**
+This project includes visualizations for:
+1. **Network Graphs**: Interactive visualizations highlighting key individuals and their influence within the Enron network.
+2. **Sentiment Trends**: Charts showcasing sentiment changes over time.
+3. **Stock-Sentiment Correlation**: Graphs comparing sentiment scores with stock prices.
+
+---
+
+## **Contributing**
+Contributions are welcome! Follow these steps to contribute:
+1. Fork the repository.
+2. Create a feature branch:
+   ```bash
+   git checkout -b feature/AmazingFeature
+   ```
+3. Commit your changes:
+   ```bash
+   git commit -m "Add some AmazingFeature"
+   ```
+4. Push to the branch:
+   ```bash
+   git push origin feature/AmazingFeature
+   ```
+5. Open a pull request.
+
+---
+
+## **License**
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+---
+
+## **Contact**
+**Your Name**  
+- Email: [mikelmessika@gmail.com](mailto:your_email@example.com)  
+- GitHub: [michael7070653](https://github.com/your_username)
+
+---
