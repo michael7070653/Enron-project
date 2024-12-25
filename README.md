@@ -10,9 +10,7 @@ _Analyzing Enron's email dataset and stock prices to uncover insights through se
 5. [Usage](#usage)
 6. [Scripts and Notebooks](#scripts-and-notebooks)
 7. [Visualization](#visualization)
-8. [Contributing](#contributing)
-9. [License](#license)
-10. [Contact](#contact)
+8. [License](#license)
 
 ---
 
@@ -115,5 +113,10 @@ This project includes visualizations for:
 **Your Name**  
 - Email: [mikelmessika@gmail.com](mailto:your_email@example.com)  
 - GitHub: [michael7070653](https://github.com/your_username)
+
+---
+
+## **License**
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ---
