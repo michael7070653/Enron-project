@@ -34,8 +34,26 @@ The project includes visualizations and scripts to extract meaningful insights, 
 
 ---
 
+
 ## **Dataset**
-- **Email Data**: Processed email communications from Enron employees.
+The Enron email dataset used in this project is publicly available on Kaggle. You can download it using the link below:
+
+[Download Enron Email Dataset](https://www.kaggle.com/datasets/wcukierski/enron-email-dataset)
+
+### Instructions:
+1. Download the dataset from the Kaggle link above.
+2. Extract the contents of the dataset (if compressed).
+3. Place the dataset files in the same folder as the project. For example:
+   ```
+   Enron-project/
+   ├── ENRON_PROJECT.ipynb
+   ├── graph_visualization.py
+   ├── mailClass.py
+   ├── enron_stock_price.csv
+   ├── emails.csv  <-- Place dataset file here
+   ```
+4. Once the dataset is in place, follow the instructions in the "Getting Started" section to run the project.
+<!-- - **Email Data**: Processed email communications from Enron employees. -->
 - **Stock Data**: Historical Enron stock prices provided in `enron_stock_price.csv`.
 
 ---
